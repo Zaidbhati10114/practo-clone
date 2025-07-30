@@ -27,13 +27,6 @@ This project was developed as part of an assignment and closely replicates the *
 
 ---
 
-## **Screenshots**
-
-### 1. Home Page  
-![Home Page](./screenshots/home.png)
-
-### 2. Doctor Listing Page  
-![Doctor Listing](./screenshots/doctors.png)
 
 ---
 
