@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sheelavathi Natraj",
+    "specialization": "Dermatologist",
+    "experience": "21 years",
+    "location": "JP Nagar, Bangalore",
+    "fees": 800,
+    "rating": 94,
+    "reviews": 1506
+  },
+  {
+    "id": 2,
+    "name": "Dr. Ramesh Kumar",
+    "specialization": "Pediatrician",
+    "experience": "18 years",
+    "location": "Indiranagar, Bangalore",
+    "fees": 600,
+    "rating": 90,
+    "reviews": 1200
+  }
+]
